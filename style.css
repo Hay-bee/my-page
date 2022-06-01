@@ -1,0 +1,171 @@
+body{
+    font-family:Arial;
+    background:rgba(255, 81, 0, 0.932);
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+nav{
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.0);
+    border-bottom: 0.5px solid #fff;
+    width: 100%;
+    height: 90px;
+    position: absolute;
+}
+
+
+
+nav .logo{
+    padding: 20px 22px;
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+ nav ul{
+     text-align: right;
+     list-style-type: none;
+     float: right;
+     margin: 0px;
+     padding: 0px;
+     display: flex;
+}
+
+nav ul li a{
+    line-height: 80px;
+    color: #fff;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#main-content h1{
+    font-size: 40px;
+    margin: 30px 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    
+}
+
+#main-content h2{
+    font-size: 40px;
+    margin: 30px 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 37%;
+    width: 100%;
+}
+
+
+#main-content h3{
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top:60%;
+}
+
+#main-content h4{
+    font-size: 13px;
+    margin:  0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top: 63%;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    text-decoration: none;
+    position: absolute;
+    margin: 5px;
+   
+}
+
+.btn-1{
+    background: rgba(255, 136, 0, 0.979);
+    border-radius: 20px;
+    top: 54%;
+    padding: 2px 30px;
+    
+}
+
+.btn-2{
+    background: rgb(255, 115, 0);
+    border-radius: 40px;
+    color: #fff;
+    font-size: 13px;
+    top: 80%;
+    padding: 10px 10px;
+    
+
+
+}
+
+.btn-3 {
+    background: #fff;
+    border-radius: 10px;
+    top: 147%;
+    padding: 2px 20px;
+}
+
+
+
+#main-content h5{
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+#main-content h6{
+    font-size: 13px;
+    text-align: center;
+    color: #fff;
+    margin: 0px;
+    
+}   
+    
+    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
